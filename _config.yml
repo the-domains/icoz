@@ -1,7 +1,7 @@
 name: ICOZ
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.49453
+typography_spectrum: 0.2973
 title: IPTV
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#394451'
     - '#32ba34'
   brandStrength: 0.5
-  lightness: 0.4710789737291634
+  lightness: 0.1875
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
