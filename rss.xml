@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ICOZ]]></title>
+        <description><![CDATA[ICOZ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 May 2016 05:33:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IP portal]]></title>
+            <description><![CDATA[<article><h1>IP portal</h1><p>PORTAL</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b767dd5289451e1bff3971a477520c047b01c86.png"></article>]]></description>
+            <link>undefinedip-portal/index.html</link>
+            <guid isPermaLink="false">07380322-23d4-476b-bc05-473f1b1f9eb0</guid>
+            <pubDate>Tue, 10 May 2016 05:33:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
