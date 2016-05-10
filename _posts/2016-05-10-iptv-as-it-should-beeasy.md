@@ -5,10 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: IPTV as it should be.....EASY
-datePublished: '2016-05-10T05:37:07.785Z'
-dateModified: '2016-05-10T05:33:40.618Z'
+datePublished: '2016-05-10T06:06:58.615Z'
+dateModified: '2016-05-10T05:47:00.030Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-10-iptv-as-it-should-beeasy.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-10-iptv-as-it-should-beeasy.md
 url: iptv-as-it-should-beeasy/index.html
 _type: Article
 
